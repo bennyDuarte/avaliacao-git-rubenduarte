@@ -6,3 +6,6 @@ Tarefas a desenvolver:
 4. Fazer add
 5. Fazer commit
 6. Fazer push
+7. Fazer uma branch
+8. Fazer pull-request
+9. Voltar atrás

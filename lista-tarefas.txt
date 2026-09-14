@@ -1,0 +1,11 @@
+Tarefas a desenvolver:
+
+1. Criar ficheiro texto
+2. Guardar ficheiro de texto
+3. Fazer status
+4. Fazer add
+5. Fazer commit
+6. Fazer push
+7. Fazer uma branch
+8. Fazer pull-request
+9. Voltar atrás

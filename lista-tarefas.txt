@@ -12,3 +12,7 @@ Tarefas a desenvolver:
 10. Fazer Merge
 11. Avaliar Merge.
 12. Aprender a fazer novos merges.
+<<<<<<< HEAD
+13. Fiz squash da merge
+=======
+>>>>>>> origin/main

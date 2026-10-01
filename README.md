@@ -2,7 +2,11 @@
 
 Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato markdown.
 
+<div align="center">
+
 # Indice
+
+</div>
 
 [Tecnologias usadas](#Tecnologias-usadas)
 
@@ -40,16 +44,25 @@ Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato ma
 SELECT * FROM USERS;
 ~~~
 
+<div align="center">
+
 ## Tarefas
+
+</div>
 
 - [x] Criar ficheiro markdown em branco
 - [x] Começar a introduzir algum texto dentro do documento markdown
 - [x] Criar tabela
 - [x] Criar cabeçalhos, tabelas e checklists
 - [ ] Marcar checklists
+
 ### Tarefas Principais
 
+<div align="center">
+
 ## Autores
+
+</div>
 
 ### Primeiro
 [Ruben Duarte](https://github.com/bennyDuarte) 

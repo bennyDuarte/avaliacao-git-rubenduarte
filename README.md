@@ -2,7 +2,6 @@
 
 Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato markdown.
 
----
 # Indice
 
 [Tecnologias usadas](#Tecnologias-usadas)
@@ -13,7 +12,6 @@ Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato ma
 
 [Autores](#Autores)
 
----
 ## Tecnologias usadas
 ### Tec.x
 
@@ -27,8 +25,11 @@ Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato ma
 
 </div>
 
----
+<div align="center">
+
 ## Instalação
+ 
+</div>
 
 ### Primeiros passos
 * *Escrever algo*
@@ -39,7 +40,6 @@ Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato ma
 SELECT * FROM USERS;
 ~~~
 
----
 ## Tarefas
 
 - [x] Criar ficheiro markdown em branco
@@ -49,10 +49,8 @@ SELECT * FROM USERS;
 - [ ] Marcar checklists
 ### Tarefas Principais
 
----
 ## Autores
 
----
 ### Primeiro
 [Ruben Duarte](https://github.com/bennyDuarte) 
 > lorem ipsum....

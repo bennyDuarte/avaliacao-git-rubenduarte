@@ -3,10 +3,15 @@
 Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato markdown.
 
 # Indice
+
 [Tecnologias usadas](#Tecnologias-usadas)
+
 [Instalação](#Instalação)
+
 [Tarefas](#Tarefas)
+
 [Autores](#Autores)
+
 ## Tecnologias usadas
 ### Tec.x
 

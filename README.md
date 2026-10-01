@@ -4,7 +4,6 @@ Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato ma
 
 ---
 # Indice
----
 
 [Tecnologias usadas](#Tecnologias-usadas)
 
@@ -16,7 +15,6 @@ Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato ma
 
 ---
 ## Tecnologias usadas
----
 ### Tec.x
 
 <div align="center">
@@ -31,7 +29,6 @@ Exercicio pedido em aula para aprender a trabalhar com um ficheiro em formato ma
 
 ---
 ## Instalação
----
 
 ### Primeiros passos
 * *Escrever algo*
@@ -44,7 +41,6 @@ SELECT * FROM USERS;
 
 ---
 ## Tarefas
----
 
 - [x] Criar ficheiro markdown em branco
 - [x] Começar a introduzir algum texto dentro do documento markdown
@@ -55,8 +51,8 @@ SELECT * FROM USERS;
 
 ---
 ## Autores
----
 
+---
 ### Primeiro
 [Ruben Duarte](https://github.com/bennyDuarte) 
 > lorem ipsum....
